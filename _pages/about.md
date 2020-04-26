@@ -33,3 +33,17 @@ I am interested in deep generative models, Bayesian inference and deep neural ne
 * "Establishing strong imputation performance of a denoising autoencoder in a wide range of missing data problems" 
 
    [arxiv.2004.02584](https://arxiv.org/abs/2004.02584)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <br /><br /><br /><br /><br /><br /><br /><br /><br />
+   
+   
+   
+   
