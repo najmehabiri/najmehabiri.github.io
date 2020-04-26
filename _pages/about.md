@@ -21,7 +21,7 @@ I am interested in deep generative models, Bayesian inference and deep neural ne
 
 
 ## Publications
-<br /><br /><br />
+<br />
 
 
 * "Variational auto-encoders with Student's t-prior"
