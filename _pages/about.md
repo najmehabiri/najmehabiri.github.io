@@ -14,14 +14,14 @@ I am interested in deep generative models, Bayesian inference and deep neural ne
 
 
 
-
-
-
+<br /><br /><br />
+<br />
+<br />
 
 
 
 ## Publications
-
+<br /><br /><br />
 
 
 * "Variational auto-encoders with Student's t-prior"
