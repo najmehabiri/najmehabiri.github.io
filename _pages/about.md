@@ -11,14 +11,24 @@ redirect_from:
 <br />
 <br />
 
-I'm currently a postdoc in statistical machine learning at IT University of Copenhagen. 
-I am interested in deep generative models, Bayesian inference and deep neural networks.
+I am currently a postdoc in statistical machine learning at [IT University of Copenhagen](https://www.itu.dk/) and interested in deep generative models, Bayesian inference and deep neural networks.
 
 
 <br />
 <br />
 
 
+
+## Teaching
+<br />
+
+* **Denoising and variational autoencoders**
+  [MCnet Machine Learning school](https://indico.cern.ch/event/910548/), Lund University, Summer 2020 
+
+
+* **Machine Learning**
+  [BSc In Data Science](https://learnit.itu.dk/local/coursebase/view.php?ciid=535), IT University of Copenhagen, Autumn 2020
+ 
 
 ## Publications
 <br />
