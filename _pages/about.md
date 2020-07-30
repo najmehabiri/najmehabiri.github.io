@@ -23,10 +23,14 @@ I am currently a postdoc in statistical machine learning at [IT University of Co
 <br />
 
 * **Denoising and variational autoencoders**
+
   [MCnet Machine Learning school](https://indico.cern.ch/event/910548/), Lund University, Summer 2020 
+  
+  [Code](https://github.com/najmehabiri/MCnet_ML_school)
 
 
 * **Machine Learning**
+
   [BSc In Data Science](https://learnit.itu.dk/local/coursebase/view.php?ciid=535), IT University of Copenhagen, Autumn 2020
  
 
