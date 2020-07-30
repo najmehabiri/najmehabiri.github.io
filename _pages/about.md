@@ -24,13 +24,13 @@ I am interested in deep generative models, Bayesian inference and deep neural ne
 <br />
 
 
-* "Variational auto-encoders with Student's t-prior"
+* **Variational auto-encoders with Student's t-prior**
 
   [arxiv.2004.02581](https://arxiv.org/abs/2004.02581)
   
   [Code](https://github.com/najmehabiri/VAE-St)
 
-* "Establishing strong imputation performance of a denoising autoencoder in a wide range of missing data problems" 
+* **Establishing strong imputation performance of a denoising autoencoder in a wide range of missing data problems** 
 
    [arxiv.2004.02584](https://arxiv.org/abs/2004.02584)
    
