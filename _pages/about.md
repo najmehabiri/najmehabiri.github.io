@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<br />
+<br />
 
 I'm currently a postdoc in statistical machine learning at IT University of Copenhagen. 
 I am interested in deep generative models, Bayesian inference and deep neural networks.
 
 
-
-<br /><br /><br />
 <br />
 <br />
 
