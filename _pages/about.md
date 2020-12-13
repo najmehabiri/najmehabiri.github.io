@@ -21,7 +21,9 @@ I am currently a postdoc in statistical machine learning at [IT University of Co
 
 ## Teaching
 <br />
+
 * **Advanced Applied Statistics and Multivariate Calculus**
+
   [BSc In Computer Science](https://learnit.itu.dk/course/view.php?id=3020374), IT University of Copenhagen, Spring 2021
 
 
@@ -42,6 +44,7 @@ I am currently a postdoc in statistical machine learning at [IT University of Co
 <br />
 
 * **Deep learning for inverse problems in quantum mechanics**
+ 
   DOI: 10.1002/qua.26599
 
 * **Variational auto-encoders with Student's t-prior**
