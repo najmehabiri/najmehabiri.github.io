@@ -21,22 +21,28 @@ I am currently a postdoc in statistical machine learning at [IT University of Co
 
 ## Teaching
 <br />
+* **Advanced Applied Statistics and Multivariate Calculus**
+  [BSc In Computer Science](https://learnit.itu.dk/course/view.php?id=3020374), IT University of Copenhagen, Spring 2021
 
+
+* **Machine Learning**
+
+  [BSc In Data Science](https://learnit.itu.dk/local/coursebase/view.php?ciid=535), IT University of Copenhagen, Autumn 2020
+  
+  
 * **Denoising and variational autoencoders**
 
   [MCnet Machine Learning school](https://indico.cern.ch/event/910548/), Lund University, Summer 2020 
   
   [Code](https://github.com/najmehabiri/MCnet_ML_school)
 
-
-* **Machine Learning**
-
-  [BSc In Data Science](https://learnit.itu.dk/local/coursebase/view.php?ciid=535), IT University of Copenhagen, Autumn 2020
  
 
 ## Publications
 <br />
 
+* **Deep learning for inverse problems in quantum mechanics**
+  DOI: 10.1002/qua.26599
 
 * **Variational auto-encoders with Student's t-prior**
 
