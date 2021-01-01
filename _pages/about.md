@@ -45,7 +45,7 @@ I am currently a postdoc in statistical machine learning at [IT University of Co
 
 * **Deep learning for inverse problems in quantum mechanics**
  
-  DOI: 10.1002/qua.26599
+  [DOI: 10.1002/qua.26599](https://onlinelibrary.wiley.com/doi/10.1002/qua.26599)
 
 * **Variational auto-encoders with Student's t-prior**
 
