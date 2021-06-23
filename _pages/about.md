@@ -11,8 +11,7 @@ redirect_from:
 <br />
 <br />
 
-I am currently a postdoc in statistical machine learning at [IT University of Copenhagen](https://www.itu.dk/) and interested in deep generative models, Bayesian inference and deep neural networks.
-
+I am currently a postdoc in the [department of statistics](https://stat.lu.se/en) at Lund university and interested in deep generative models, Bayesian inference and deep neural networks.
 
 <br />
 <br />
